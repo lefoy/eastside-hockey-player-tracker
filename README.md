@@ -1,2 +1,3 @@
-# eastside-hockey-player-tracker
-Eastside Hockey Manager Player Tracker
+# Eastside Hockey Manager - Player Tracker
+
+Work in progress
